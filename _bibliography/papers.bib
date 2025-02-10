@@ -12,6 +12,7 @@
     primaryClass={cs.LG},
     booktitle={Machine Learning for Systems 2024},
     url={https://arxiv.org/abs/2411.10764}, 
+    doi={10.48550/arXiv.2411.10764},
     abstract={The increasing complexity of deep learning models necessitates specialized hardware and software optimizations, particularly for deep learning accelerators. Existing autotuning methods often suffer from prolonged tuning times due to profiling invalid configurations, which can cause runtime errors.  We introduce ML$^2$Tuner, a multi-level machine learning tuning technique that enhances autotuning efficiency by incorporating a validity prediction model to filter out invalid configurations and an advanced performance prediction model utilizing hidden features from the compilation process. Experimental results on an extended VTA accelerator demonstrate that ML$^2$Tuner achieves equivalent performance improvements using only 12.3\% of the samples required with a similar approach as TVM and reduces invalid profiling attempts by an average of 60.8\%, Highlighting its potential to enhance autotuning performance by filtering out invalid configurations}
 }
 
@@ -21,7 +22,7 @@
   author={Yongin Kwon and JooHyoung Cha and Jubin Lee and Misun Yu and Jeman Park and Jemin Lee},
   booktitle={Machine Learning for Systems 2023},
   year={2023},
-  url={https://openreview.net/forum?id=k0FIPHpeR4}
+  url={https://openreview.net/forum?id=k0FIPHpeR4},
   abstract={Deep learning has expanded its footprint across diverse domains. The performance of these computations hinges on the interplay between deep learning compilers and inference libraries. While compilers adapt efficiently to new deep learning operations or models, their tuning processes are too time-consuming. In con- trast, inference libraries offer quick execution but with adaptability limitations. To address these challenges, we propose ACLTuner, which optimizes execution configurations using existing inference library kernels. ACLTuner identifies and assigns the optimal kernel through targeted device profiling. Compared to ArmNN, AutoTVM, Ansor, ONNXRuntime, and TFLite, ACLTuner not only achieves up to 2.0x faster execution time across seven deep learning models, but also reduces the average tuning time by 95%.}
 }
 
