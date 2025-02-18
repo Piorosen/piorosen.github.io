@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "JooHyoung Cha",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "chacha@udon.party",
+    "phone": "",
+    "url": "https://blog.udon.party/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -24,8 +24,8 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "(주) 은재팜",
+      "position": "개발부서 팀장",
       "url": "https://example.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
@@ -47,67 +47,81 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Dong-eui University, Pusan, Korea",
+      "location": "Pusan, Korea",
+      "url": "https://deu.ac.kr/www",
+      "area": "Applied Software Engineering",
+      "studyType": "BS",
+      "startDate": "2018-03-02",
+      "endDate": "2024-02-22",
+      "score": "3.89/4.5",
+      "courses": ["Operating System", "Computer Graphics", "Information Security"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Distinguished Paper Award",
+      "date": "2023-08-30",
+      "awarder": "JooHyoung Cha",
+      "url": "https://kiice.org/homepage/custom/w4",
+      "summary": "Awarded for the paper titled 'Design of Efficient Virtual Desktop Infrastructure based on Super Resolution and NPU'"
+    },
+    {
+      "name": "2019년 동의대학교 통합성과 경진대회 우수 수상",
+      "date": "2019-10-06",
+      "awarder": "JooHyoung Cha",
+      "url": "https://blog.udon.party/assets/img/post/2021-10-06-01.jpg",
+      "summary": ""
+    },
+    {
+      "name": "2023년 동의대학교 통합성과 경진대회 장려 수상",
+      "date": "2023-11-16",
+      "awarder": "JooHyoung Cha",
+      "url": "https://blog.udon.party/assets/img/post/2023-11-16-01.jpg",
+      "summary": ""
+    },
+    {
+      "name": "K 해커톤 7회 장려(소프트웨어교육혁신센터 이사장상)",
+      "date": "2023-11-15",
+      "awarder": "JooHyoung Cha",
+      "url": "http://swkorea.org/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?nType=UFFscUh5dURaU3p3Qi9SWHlzM3l6UEVPellyK3o5Q3ZNcDFOdTg4SlR4L29HMGlGbXdzRytkWFA0UFdEbW1ibXZZSlc5Z2xJeGVJVm1pZWVvLzRib3lhNDRLR3NBdzhYRlB3anNWYThpRzJpQUhxR282Q3kzMTJJbUhEa1JldUw=",
+      "summary": "주제 : 노인 낙상 방지 침대 / 어플리케이션"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Test of English for International Communication(TOEIC), 815",
+      "date": "2024-05-26",
+      "issuer": "YBM",
+      "url": "https://blog.udon.party/assets/pdf/resources/2024-06-05-toeic.png",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
+      "name": "정보 처리 기사",
+      "date": "2023-11-15",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "url": "https://blog.udon.party/assets/resources/Engineer_Information_Processing.pdf",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "딥러닝의 기초",
+      "date": "2022-06-22",
+      "issuer": "NVIDIA",
+      "url": "https://courses.nvidia.com/certificates/f7ac9a6f1b8a45568a4b8ed2ff09adba",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "CUDA C/C++ 를 활용한 가속화 컴퓨팅 기초",
+      "date": "2022-06-23",
+      "issuer": "NVIDIA",
+      "url": "https://courses.nvidia.com/certificates/cf714047f3ea48a0923f711464148e63/",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "(민간 기술 자격증) SW코딩자격 2급",
+      "date": "2019-08-30",
+      "issuer": "Dong-eui University",
+      "url": "https://blog.udon.party/assets/pdf/resources/sw_coding_cerfication_level2.pdf",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
@@ -151,13 +165,8 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
       "icon": ""
     }
   ],
@@ -177,14 +186,14 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Young Woon Woo",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Yongin Kwon",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     }
   ],
   "projects": [
