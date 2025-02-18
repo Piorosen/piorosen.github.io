@@ -4,7 +4,8 @@
 @string{aps = {American Physical Society,}}
 
 @inproceedings{cha2024ml2tunerefficientcodetuning,
-    title={ML$^2$Tuner: Efficient Code Tuning via Multi-Level Machine Learning Models}, 
+  bibtex_show={true},
+    title={{ML$^2$}Tuner: Efficient Code Tuning via Multi-Level Machine Learning Models}, 
     author={JooHyoung Cha and Munyoung Lee and Jinse Kwon and Jubin Lee and Jemin Lee and Yongin Kwon},
     eprint={2411.10764},
     archivePrefix={arXiv},
@@ -23,6 +24,7 @@
 }
 
 @inproceedings{kwon2023acltuner,
+  bibtex_show={true},
   title={{ACLT}uner: A Profiling-Driven Fast Tuning to Optimized Deep Learning Inference},
   author={Yongin Kwon and JooHyoung Cha and Jubin Lee and Misun Yu and Jeman Park and Jemin Lee},
   booktitle={Machine Learning for Systems Workshop at NeurIPS},
@@ -37,9 +39,12 @@
 }
 
 @inproceedings{cha201906imagegenusingga,
+    bibtex_show={true},
     title={An Effective Method for Generating Color Images Using Genetic Algorithm}, 
     author={JooHyoung Cha and Young Woon Woo},
     booktitle={2019 INTERNATIONAL CONFERENCE ON FUTURE INFORMATION & COMMUNICATION ENGINEERING Vo.11 No.1},
+    issue={1},
+    volume={11},
     url={https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08747485}, 
     abstract={In this paper, we proposed two methods to automatically generate color images similar to existing images using genetic algorithms. Experiments were performed on two different sizes(256x256, 512x512) of color images using each of the proposed methods. Experimental results show that evolving the whole image into sub-images evolves much more effective than modeling and evolving it into a single gene, and the generated images are much more sophisticated. Therefore, we could find that gene modeling should be carefully decided in order to generate an image similar to the existing image in the future, or to learn quickly and naturally to generate an image synthesized from different images.},
     year={2019},
@@ -48,4 +53,36 @@
     html={https://kiice.org/homepage/custom/c2},
     abbr={ICFICE 2019},
     pages={1--4},
+}
+
+@inproceedings{cha2022pgoacltuner,
+    bibtex_show={true},
+    title={Profiling-based ArmCL Optimal Schedule Search for Single-ISA Heterogeneous Multi-Core Architectures}, 
+    author={JooHyoung Cha* and Yongin Kwon* and Jemin Lee},
+    booktitle={1},
+    issue={7},
+    publisher={IEIE},
+    doi={10.5573/ieie.2023.60.7.40},
+    volume={60},
+    journal={Journal of The Institute of Electronics and Information Engineers, ISSN: 2287-5026},
+    url={http://journal.auric.kr/ieie/ArticleDetail/RD_R/423544}, 
+    abstract={Recently, there has been a growing demand to apply deep learning in embedded environments. In constrained embedded environments, heterogeneous multicore CPU architectures like Arm's big.LITTLE are widely utilized to efficiently carry out deep learning computations. Although Arm provides Arm Compute Library (ACL) for optimal deep learning operations, it does not fully leverage the potential of hardwares with the big.LITTLE structure. This paper proposes a profile-based search method for automatically determining the optimal execution kernel and schedule for each hardware. Experiments were conducted on Tinker Edge R, Odroid N+, and Snapdragon 865 HDK boards using AlexNet, VGG16, MobileNetV2, and GoogleNet models. In all cases, the proposed method improved performance up to 266% compared to existing methods. Through the results of this research, we expect to enable cost-effective, low-power, and high-performance execution of deep learning in embedded devices.},
+    year={2022},
+    month={Jul},
+    pdf={paper/2022_11_단일 ISA 이기종 멀티 코어 구조를 위한 프로파일 기반 ArmCL 최적 스케줄 탐색.pdf},
+    html={http://journal.auric.kr/ieie/Archive/202307/7},
+    abbr={IEIE J.},
+    pages={40--49},
+}
+
+
+@inproceedings{cha2023kiicecloudlaptop,
+  abbr={KIICE W.},
+  title={**Distinguished Paper** Design of Efficient Virtual Desktop Infrastructure based on Super Resolution and NPU},
+  author={JooHyoung Cha and Hyunjun Park and Miseon Im and Beaseop Kwak and Taehyeon Kweon and Bae Seong Jun and Young Woon Woo},
+  pages={1--2},
+  month = {9},
+  year={2023},
+  html={https://kiice.org/homepage/custom/w4},
+  pdf={paper/2023_09_초해상도_및_기반의_효율적인_가상_데스크톱_인프라_설계.pdf},
 }
