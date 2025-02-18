@@ -26,26 +26,43 @@
     {
       "name": "(주) 은재팜",
       "position": "개발부서 팀장",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "url": "",
+      "startDate": "2023-03-01",
+      "endDate": "2024-02-29",
+      "summary": "",
+      "highlights": ["Abnormal Detection for Wind Turbine Using Digital Twin", "Smart Farm with Digital Twin"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "ETRI 동계 연구 연수생",
+      "position": "인턴",
+      "url": "https://gitlab.com/ones-ai",
+      "startDate": "2023-01-01",
+      "endDate": "2023-02-24",
+      "summary": "5개의 연산 장치가 탑재된 하나의 보드에서 추론 처리량 개선을 위한 신경망 모델 추론 작업 스케줄링",
+      "highlights": [""]
+    },
+    {
+      "name": "ETRI 하계 연구 연수생",
+      "position": "인턴",
+      "url": "https://gitlab.com/ones-ai",
+      "startDate": "2022-07-01",
+      "endDate": "2022-08-31",
+      "summary": "CPU 코어마다 최적의 workload 작업 분배와 연산 커널 선택을 통한 추론 성능 개선",
+      "highlights": [""]
     }
   ],
   "education": [
+    {
+      "institution": "University of Science and Technology, Daejeon, Korea",
+      "location": "Daejeon, Korea",
+      "url": "https://www.ust.ac.kr/",
+      "area": "Artificial Intelligence",
+      "studyType": "Master Course",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "score": "?/4.5",
+      "courses": ["Deep Learning Basis", "Optimization Theroy"]
+    },
     {
       "institution": "Dong-eui University, Pusan, Korea",
       "location": "Pusan, Korea",
@@ -179,12 +196,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "",
+      "summary": "",
+      "highlights": [""],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
