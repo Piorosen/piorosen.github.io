@@ -12,7 +12,7 @@ profile:
     <p>Present: Master’s Program at UST-ETRI</p>
     <p>Interest: Compiler, Embeded System, Optimization</p>
     <p>Other Skill: Reverse Engineering, Infrastructure(OpenStack, K8s), Digital Twin</p>
-
+ 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
