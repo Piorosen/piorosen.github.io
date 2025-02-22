@@ -990,7 +990,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-2",
+          section: "News",},{id: "projects-교내-클라우드-시스템-구축",
+          title: '교내 클라우드 시스템 구축',
+          description: "쿠버네티스 기반의 학과 서버 관리 시스템 개발 (May 23, 2022)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_infrastructure_at_deu_20220523/";
+            },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -1030,11 +1035,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-교내-클라우드-시스템-구축",
-          title: '교내 클라우드 시스템 구축',
-          description: "쿠버네티스 기반의 학과 서버 관리 시스템 개발 (May 23, 2022)",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/infrastructure_at_deu_20220523/";
             },},{
         id: 'social-email',
         title: 'email',
