@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: 교내 클라우드 시스템 구축
+description: 쿠버네티스 기반의 학과 서버 관리 시스템 개발 (May 23, 2022)
+img: assets/img/post/2022-05-23-server.png 
 importance: 1
-category: work
-related_publications: true
+category: Infrastructure
 ---
 
 Every project has a beautiful feature showcase page.
